@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDD_checkbox</string>
+    <string name="show_rules">Show rules</string>
+    <string name="information">Information</string>
+</resources>
